@@ -1,0 +1,8 @@
+temperature\ParseResultTest.class
+temperature\BatchProcessorTest.class
+temperature\FileReportWriterTest.class
+temperature\TemperatureStatisticsTest.class
+temperature\MainTest.class
+temperature\ReportBuilderTest.class
+temperature\TemperatureParserTest.class
+temperature\TemperatureRecordTest.class

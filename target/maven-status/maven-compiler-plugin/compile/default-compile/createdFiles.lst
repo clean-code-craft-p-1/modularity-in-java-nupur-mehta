@@ -1,0 +1,9 @@
+temperature\TemperatureRecord.class
+temperature\ReportWriter.class
+temperature\ParseResult.class
+temperature\BatchProcessor.class
+temperature\Main.class
+temperature\ReportBuilder.class
+temperature\TemperatureStatistics.class
+temperature\TemperatureParser.class
+temperature\FileReportWriter.class
